@@ -5,3 +5,6 @@
 
 ### Fixed navigation menu
 [Fixed navigation menu](https://zion86.github.io/JavaScript-solutions/Fixed-navigation-menu/index.html)
+
+### Change background color in HTML
+[Change background color in body](https://zion86.github.io/JavaScript-solutions/Change-background-color-body/#)
