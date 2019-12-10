@@ -17,19 +17,19 @@ body {
   align-items: center;
   font-family: 'Lato', sans-serif;
   color: white;
-  font-size: 8.5rem;
+  font-size: 6rem;
   overflow: hidden;
 }
 
 .clock--section {
-  margin: 1rem;
-  min-width: 200px;
-  height: 200px;
+  margin: 0.5rem;
+  width: 150px;
+  height: 150px;
   display: flex;
   justify-content: center;
   align-items: center;
   background-color: black;
-  border-radius: 40px;
+  border-radius: 25px;
   text-shadow: 0 0 13px whitesmoke;
 }
 
