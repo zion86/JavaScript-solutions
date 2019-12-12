@@ -10,7 +10,7 @@
 [Simple clock](https://zion86.github.io/JavaScript-solutions/Simple-clock-with-JS/)
 
 ### JS Slider
-[JS Slider](https://zion86.github.io/JavaScript-solutions/Slider/)
+[JS Slider with buttons](https://zion86.github.io/JavaScript-solutions/Slider/)
 
 ### Change background color in HTML
 [Change background color in body](https://zion86.github.io/JavaScript-solutions/Change-background-color-body/#)
