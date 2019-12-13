@@ -14,3 +14,6 @@
 
 ### Change background color in HTML
 [Change background color in body](https://zion86.github.io/JavaScript-solutions/Change-background-color-body/#)
+
+### Simple counter with JS
+[Simple counter](https://zion86.github.io/JavaScript-solutions/Counter/)
