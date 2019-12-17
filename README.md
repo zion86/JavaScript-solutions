@@ -12,6 +12,9 @@
 ### JS Slider
 [JS Slider with buttons](https://zion86.github.io/JavaScript-solutions/Slider/)
 
+### JS DOM manipulation
+[JS DOM manipulation](https://zion86.github.io/JavaScript-solutions/JavaScript-DOM-manipulation/)
+
 ### Change background color in HTML
 [Change background color in body](https://zion86.github.io/JavaScript-solutions/Change-background-color-body/#)
 
