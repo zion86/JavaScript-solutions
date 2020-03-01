@@ -9,6 +9,9 @@
 ### Fixed navigation menu
 [Fixed navigation menu](https://zion86.github.io/JavaScript-solutions/Fixed-navigation-menu/index.html)
 
+### OnScroll EventListener Animation
+[OnScroll animation](https://zion86.github.io/JavaScript-solutions/OnScroll-animation/index.html)
+
 ### Simple clock with JS
 [Simple clock](https://zion86.github.io/JavaScript-solutions/Simple-clock-with-JS/)
 
