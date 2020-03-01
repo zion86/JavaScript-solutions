@@ -23,15 +23,15 @@ body {
 }
 
 .box {
-  width: 500px;
-  height: 300px;
+  width: 300px;
+  height: 200px;
   background-color: tomato;
   transition: 0.6s;
 }
 
 .box-0 {
-  width: 800px;
-  height: 400px;
+  width: 350px;
+  height: 250px;
   background-color: limegreen;
 }
 
@@ -44,9 +44,9 @@ body {
 }
 
 .box-3 {
-  transform: translateX(200px);
+  transform: translateX(100px);
 }
 
 .box-4 {
-  transform: translateX(-200px);
+  transform: translateX(-100px);
 }
