@@ -3,6 +3,9 @@
 ### Parallax effect with multilayer image
 [Parallax effect + JS](https://zion86.github.io/JavaScript-solutions/Parallax-effect-with-multilayer-image/index.html)
 
+### Matrix screensaver
+[Matrix screensaver with HTML5 canvas](https://zion86.github.io/JavaScript-solutions/Matrix-screensaver/index.html)
+
 ### Scroll bar progress indicatior
 [Scroll bar progress indicatior](https://zion86.github.io/JavaScript-solutions/Scroll-bar-progress-indicator/)
 
