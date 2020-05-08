@@ -9,8 +9,11 @@
 ### Scroll bar progress indicatior
 [Scroll bar progress indicatior](https://zion86.github.io/JavaScript-solutions/Scroll-bar-progress-indicator/)
 
+### Responsive burger menu with animation
+[Responsive burger menu](https://zion86.github.io/JavaScript-solutions/Menu-navigation/Responsive-burger-menu/index.html)
+
 ### Fixed navigation menu
-[Fixed navigation menu](https://zion86.github.io/JavaScript-solutions/Fixed-navigation-menu/index.html)
+[Fixed navigation menu](https://zion86.github.io/JavaScript-solutions/Menu-navigation/Fixed-navigation-menu/index.html)
 
 ### OnScroll EventListener Animation
 [OnScroll animation](https://zion86.github.io/JavaScript-solutions/OnScroll-animation/index.html)
