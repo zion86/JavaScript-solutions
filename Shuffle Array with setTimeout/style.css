@@ -1,0 +1,10 @@
+div {
+  max-width: 300px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+div > div {
+  width: 100px;
+  height: 100px;
+}
