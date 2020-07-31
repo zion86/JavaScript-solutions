@@ -32,3 +32,6 @@
 
 ### Simple counter with JS
 [Simple counter](https://zion86.github.io/JavaScript-solutions/Counter/)
+
+### Shuffle JS Array
+[Shuffle array](https://zion86.github.io/JavaScript-solutions/Shuffle%20Array%20with%20setTimeout/index.html)
