@@ -34,5 +34,5 @@
 [Shuffle array](https://zion86.github.io/JavaScript-solutions/Shuffle%20Array%20with%20setTimeout/index.html)
 
 ## SLIDERS
-[Slider](https://zion86.github.io/JavaScript-solutions/Sliders/JS-slideshow-carusel/index.html)
+[Slider](https://zion86.github.io/JavaScript-solutions/Sliders/JS-slideshow-carusel/index.html) \
 [JS Slider with buttons](https://zion86.github.io/JavaScript-solutions/Sliders/Slider-with-buttons/index.html)
