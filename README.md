@@ -21,9 +21,6 @@
 ### Simple clock with JS
 [Simple clock](https://zion86.github.io/JavaScript-solutions/Simple-clock-with-JS/)
 
-### JS Slider
-[JS Slider with buttons](https://zion86.github.io/JavaScript-solutions/Slider/)
-
 ### JS DOM manipulation
 [JS DOM manipulation](https://zion86.github.io/JavaScript-solutions/JavaScript-DOM-manipulation/)
 
@@ -38,3 +35,6 @@
 
 ## SLIDERS
 [Slider](https://zion86.github.io/JavaScript-solutions/Sliders/JS-slideshow-carusel/index.html)
+
+### JS Slider
+[JS Slider with buttons](https://zion86.github.io/JavaScript-solutions/Sliders/Slider-with-buttons/index.html)
