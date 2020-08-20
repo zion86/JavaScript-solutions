@@ -1,0 +1,23 @@
+img {
+  max-width: 100%;
+  height: auto;
+  vertical-align: top;
+}
+
+.slides {
+  position: relative;
+  max-width: 800px;
+}
+
+.slides__img {
+  position: absolute;
+  object-fit: cover;
+  opacity: 0;
+  z-index: 1;
+  transition: 1s opacity;
+}
+
+.slides__img--show {
+  opacity: 1;
+  z-index: 2;
+}
