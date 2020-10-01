@@ -12,6 +12,9 @@
 ### Responsive burger menu with animation
 [Responsive burger menu](https://zion86.github.io/JavaScript-solutions/Menu-navigation/Responsive-burger-menu/index.html)
 
+### Burger menu icon with animation
+[ Burger menu icon](https://zion86.github.io/JavaScript-solutions/Menu-navigation/Burger-menu/index.html)
+
 ### Fixed navigation menu
 [Fixed navigation menu](https://zion86.github.io/JavaScript-solutions/Menu-navigation/Fixed-navigation-menu/index.html)
 
