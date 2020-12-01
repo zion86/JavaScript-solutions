@@ -9,15 +9,6 @@
 ### Scroll bar progress indicatior
 [Scroll bar progress indicatior](https://zion86.github.io/JavaScript-solutions/Scroll-bar-progress-indicator/)
 
-### Responsive burger menu with animation
-[Responsive burger menu](https://zion86.github.io/JavaScript-solutions/Menu-navigation/Responsive-burger-menu/index.html)
-
-### Burger menu icon with animation
-[ Burger menu icon](https://zion86.github.io/JavaScript-solutions/Menu-navigation/Burger-menu/index.html)
-
-### Fixed navigation menu
-[Fixed navigation menu](https://zion86.github.io/JavaScript-solutions/Menu-navigation/Fixed-navigation-menu/index.html)
-
 ### OnScroll EventListener Animation
 [OnScroll animation](https://zion86.github.io/JavaScript-solutions/OnScroll-animation/index.html)
 
@@ -36,6 +27,12 @@
 ### Shuffle JS Array
 [Shuffle array](https://zion86.github.io/JavaScript-solutions/Shuffle%20Array%20with%20setTimeout/index.html)
 
-## SLIDERS
+### NAVIGATION MENU
+[Fixed navigation menu](https://zion86.github.io/JavaScript-solutions/Menu-navigation/mobile-full-screen-menu/)
+[Fixed navigation menu v2](https://zion86.github.io/JavaScript-solutions/Menu-navigation/Fixed-navigation-menu/index.html)
+[Burger menu icon with animation](https://zion86.github.io/JavaScript-solutions/Menu-navigation/Burger-menu/index.html)
+[Responsive burger menu](https://zion86.github.io/JavaScript-solutions/Menu-navigation/Responsive-burger-menu/index.html)
+
+### SLIDERS
 [Slider](https://zion86.github.io/JavaScript-solutions/Sliders/JS-slideshow-carusel/index.html) \
 [JS Slider with buttons](https://zion86.github.io/JavaScript-solutions/Sliders/Slider-with-buttons/index.html)
