@@ -8,6 +8,10 @@
   box-sizing: border-box;
 }
 
+.block-scroll {
+  overflow-y: hidden;
+}
+
 ul {
   list-style: none;
 }
