@@ -8,8 +8,8 @@
   box-sizing: border-box;
 }
 
-.block-scroll {
-  overflow-y: hidden;
+.lock-scroll {
+  overflow: hidden;
 }
 
 ul {
