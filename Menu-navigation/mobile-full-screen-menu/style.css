@@ -9,7 +9,7 @@
 }
 
 .block-scroll {
-  overflow-y: hidden;
+  overflow: hidden;
 }
 
 ul {
