@@ -32,6 +32,7 @@
 [Fixed navigation menu v2](https://zion86.github.io/JavaScript-solutions/Menu-navigation/Fixed-navigation-menu/index.html) \
 [Burger menu icon with animation](https://zion86.github.io/JavaScript-solutions/Menu-navigation/Burger-menu/index.html) \
 [Responsive burger menu](https://zion86.github.io/JavaScript-solutions/Menu-navigation/Responsive-burger-menu/index.html)
+[Fullscreen navigation menu](https://zion86.github.io/JavaScript-solutions/Menu-navigation/fullscreen-navigation-menu/index.html)
 
 ### SLIDERS
 [Slider](https://zion86.github.io/JavaScript-solutions/Sliders/JS-slideshow-carusel/index.html) \
