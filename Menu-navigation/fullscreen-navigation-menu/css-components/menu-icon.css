@@ -1,0 +1,52 @@
+/* menu-icon component */
+
+.menu-icon {
+  padding: 0.5em;
+  width: 4em;
+  height: 4em;
+  position: fixed;
+  transform: translateX(-100%);
+  font-size: 1rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  cursor: pointer;
+  z-index: 1;
+  opacity: 0.4;
+}
+
+.menu-icon__line {
+  height: 0.5em;
+  border-radius: 0.3em;
+  background-color: black;
+}
+.menu-icon__line:nth-child(1) {
+  width: 80%;
+  transition: 0.4s width;
+}
+.menu-icon__line:nth-child(2) {
+  width: 50%;
+  transform: translateX(0);
+  transition: 0.3s transform, 0.4s width;
+}
+.menu-icon__line:nth-child(3) {
+  width: 70%;
+  transition: 0.5s width;
+}
+
+.menu-icon--active {
+  opacity: 0.8;
+}
+.menu-icon.menu-icon--active .menu-icon__line {
+  background-color: #FFFFFF;
+}
+.menu-icon.menu-icon--active .menu-icon__line:nth-child(1) {
+  width: 100%;
+}
+.menu-icon.menu-icon--active .menu-icon__line:nth-child(2) {
+  width: 20%;
+  transform: translateX(200%);
+}
+.menu-icon.menu-icon--active .menu-icon__line:nth-child(3) {
+  width: 100%;
+}
