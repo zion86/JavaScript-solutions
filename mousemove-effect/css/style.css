@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.box {
+  margin: 0 auto;
+  margin-top: 200px;
+  width: 500px;
+  height: 250px;
+
+  background-image: url(../img/car.jpg);
+  background-size: cover;
+
+  perspective: 100px;
+  perspective-origin: center;
+  padding: 100px;
+
+  overflow: hidden;
+}
