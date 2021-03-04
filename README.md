@@ -36,4 +36,7 @@
 
 ### SLIDERS
 [Slider](https://zion86.github.io/JavaScript-solutions/Sliders/JS-slideshow-carusel/index.html) \
-[JS Slider with buttons](https://zion86.github.io/JavaScript-solutions/Sliders/Slider-with-buttons/index.html)
+[JS Slider with buttons](https://zion86.github.io/JavaScript-solutions/Sliders/Slider-with-buttons/index.html
+
+### Mousemove hover effect
+[Mousemove effect](https://zion86.github.io/JavaScript-solutions/mousemove-effect/index.html)
