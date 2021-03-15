@@ -40,3 +40,6 @@
 
 ### Mousemove hover effect
 [Mousemove effect](https://zion86.github.io/JavaScript-solutions/mousemove-effect/index.html)
+
+### JS regExp
+[regExp input phone number mask](https://zion86.github.io/JavaScript-solutions/regExp/phone-number-mask/index.html)
