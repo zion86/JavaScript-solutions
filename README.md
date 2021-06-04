@@ -27,6 +27,9 @@
 ### Shuffle JS Array
 [Shuffle array](https://zion86.github.io/JavaScript-solutions/Shuffle%20Array%20with%20setTimeout/index.html)
 
+### Simple pagination load more
+[pagination load more](https://zion86.github.io/JavaScript-solutions/pagination-load-more/index.html)
+
 ### NAVIGATION MENU
 [Fixed navigation menu](https://zion86.github.io/JavaScript-solutions/Menu-navigation/mobile-full-screen-menu/) \
 [Fixed navigation menu v2](https://zion86.github.io/JavaScript-solutions/Menu-navigation/Fixed-navigation-menu/index.html) \
